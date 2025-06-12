@@ -1,2 +1,38 @@
 # dsa-sprint-30
 30 Days | 300+ DSA Problems | Intense Revision Sprint 🚀
+
+# 🧠 30-Day DSA Revision Sprint 🚀
+
+Welcome to my intense 30-day DSA grind — revisiting core problem-solving patterns, refining speed, and building public proof for top-tier job readiness.
+
+## 🎯 Goal
+- Solve **10 DSA problems daily** (total: 300+)
+- Sharpen core patterns and algorithms
+- Build a visible, verifiable proof-of-work for recruiters and the dev community
+
+## 🛠️ Tools & Platforms
+- Language: C++ (with STL) / Python
+- Platforms: LeetCode, Codeforces, GeeksforGeeks
+
+## 📅 Daily Log
+
+| Day | Topics Covered | Notes | Problems Solved |
+|-----|----------------|-------|------------------|
+| 1   |  |  |  |
+| 2   |  |  |  |
+| ... | ... | ... | ... |
+
+## 🔍 Patterns Tracked
+
+## 📚 Extras
+- [Pattern Notes](patterns/)
+- [Cheat Sheets](cheatsheets/)
+- [Useful Links](resources.md)
+
+---
+
+## 🤝 Connect With Me
+- 📌 [LinkedIn](https://www.linkedin.com/in/bhaswanth-vangapati/)
+- 🐦 [Twitter](https://x.com/BhaswanthR20169)
+
+> Follow the journey, fork the repo, or start your own sprint! Let’s grow in public 💪
