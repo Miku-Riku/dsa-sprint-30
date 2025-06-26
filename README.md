@@ -14,13 +14,12 @@ Welcome to my intense 30-day DSA grind — revisiting core problem-solving patte
 - Language: C++ (with STL) / Python
 - Platforms: LeetCode, Codeforces, GeeksforGeeks
 
-## 📅 Daily Log
+## 📈 Daily DSA Progress
 
-| Day | Topics Covered | Notes | Problems Solved |
-|-----|----------------|-------|------------------|
-| 1   |  |  |  |
-| 2   |  |  |  |
-| ... | ... | ... | ... |
+| Date       | Problems Solved                                     |
+|------------|-----------------------------------------------------|
+| 2025-06-26 | [Kadane’s Algorithm](arrays/maxSubarray_kadane's-algorithm.cpp)                 |
+| ...|.... |
 
 ## 🔍 Patterns Tracked
 
