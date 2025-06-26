@@ -16,10 +16,9 @@ Welcome to my intense 30-day DSA grind — revisiting core problem-solving patte
 
 ## 📈 Daily DSA Progress
 
-| Date       | Problems Solved                                     |
-|------------|-----------------------------------------------------|
-| 2025-06-26 | [Kadane’s Algorithm](arrays/maxSubarray_kadane's-algorithm.cpp)                 |
-| ...|.... |
+| Date       | Problems Solved | Log Link            |
+|------------|------------------|---------------------|
+| 2025-06-26 | 1                | [See problems](log.md#2025-06-26) |
 
 ## 🔍 Patterns Tracked
 
