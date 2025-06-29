@@ -19,7 +19,7 @@ Welcome to my intense 30-day DSA grind — revisiting core problem-solving patte
 | Date       | Problems Solved | Log Link            |
 |------------|------------------|---------------------|
 | 2025-06-26 | 1                | [See problems](log.md#2025-06-26) |
-| 2025-06-28 | 2                | [See problems](log.md#2025-06-28)
+| 2025-06-28 | 2                | [See problems](log.md#2025-06-28) |
 
 ## 🔍 Patterns Tracked
 
