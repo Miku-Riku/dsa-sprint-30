@@ -9,3 +9,9 @@ Tags: #Array #HashSet #Leetcode #Easy
 
 - ✅ [spiral-matrix](arrays\spiral-matrix.cpp)
 Tags: #Array #Matrix #SpiralOrder #Leetcode #Medium
+
+- ✅ [valid-anagram](arrays\valid-anagram.cpp)
+Tags: #Array #HashSet #Leetcode #Easy
+
+- ✅ [two-sum](arrays\two-sum.cpp)
+Tags : #Array #HashMap #TwoSum #Leetcode #Easy
