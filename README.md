@@ -3,8 +3,8 @@
 
 ## 🧠 30-Day DSA Revision Sprint 🚀 (15-07-2025 to 15-08-2025)
 
-Welcome to my intense 30-day DSA grind — revisiting core problem-solving patterns, refining speed, and building public proof for top-tier job readiness.
-30 Days | 300+ DSA Problems | Intense Revision Sprint 🚀
+- Welcome to my intense 30-day DSA grind — revisiting core problem-solving patterns, refining speed, and building public proof for top-tier job readiness.
+- 30 Days | 300+ DSA Problems | Intense Revision Sprint 🚀
 
 ## 🎯 Goal
 - Solve **10 DSA problems daily** (total: 300+)
