@@ -31,4 +31,6 @@ Tags : #Array #HashMap #BucketSort #Leetcode #Medium
 - ✅ [product-of-array-except-self](arrays/product-of-array-except-self.cpp)
 Tags : #Array #PrefixSum #PostfixSum #Leetcode #Medium
 
-## 2025-07-11
+## 2025-10-05
+- ✅ [container-with-most-water](arrays/two-pointers/container-with-most-water.cpp)
+Tags : #Arrays #TwoPointers #Leetcode #Medium
