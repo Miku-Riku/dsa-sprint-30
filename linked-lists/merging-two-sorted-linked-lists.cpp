@@ -19,3 +19,55 @@ We divide the problem into smaller same subproblems.
 That is, we compare the current value of both list, and return which is smaller.
 
 */
+
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
+class Solution {
+public:
+    ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
+        ListNode *head = NULL, *tail = NULL;
+        if(list1 == NULL) return list2;
+        if(list2 == NULL) return list1;
+
+        while(list1 && list2){
+            if(list1->val <= list2->val){
+                ListNode* temp = list1->next;
+                if(head == NULL){
+                    head = list1;
+                    tail = list1;
+                }else {
+                    tail->next = list1;
+                    tail = tail->next;
+                }
+                list1 = temp;
+            }else if(list1->val > list2->val){
+                ListNode* temp = list2->next;
+                if(head == NULL){
+                    head = list2;
+                    tail = list2;
+                }else{
+                    tail->next = list2;
+                    tail = tail->next;
+                }
+                list2 = temp;
+            }
+        }
+
+        if(list1 == NULL){
+            tail->next = list2;
+        }else if(list2 == NULL){
+            tail->next = list1;
+        }
+        return head;
+
+
+    }
+};
